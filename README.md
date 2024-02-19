@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @deep
+- 👋 Hi, I’m Deepanshu Molasi, a computer science student at BVICAM, New Delhi, India.
 - 👀 I’m interested in Data Science and Machine Learning using Python 
 - 💞️ I’m looking to collaborate on anything if i can.
 - 📫 How to reach me-> you can reach me on molasideepanshu@gmail.com
